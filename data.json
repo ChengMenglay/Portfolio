@@ -2,7 +2,7 @@
   "projects": [
     {
       "id": 1,
-      "image": "../public/pos.webp",
+      "image": "/pos.webp",
       "title": "POS System",
       "date": "January, 2024 to present",
       "detail": "The POS System was developed as a full-stack application to provide solutions for small businesses. It enables users to manage order processing, stock products, create invoices, record sales, print receipts, and ensure login security.",
@@ -12,7 +12,7 @@
     },
     {
       "id": 2,
-      "image": "../public/thred.webp",
+      "image": "/thred.webp",
       "title": "Thread clone",
       "date": "November, 2023 to present",
       "detail": "Thread Clone was built for practicing both front-end with reactJs and back-end with ExpressJs and MySQL. The functionality of this project features like includes Login and Sign-Up security, implementation on creating and editing posts, and also checking posted history.",
@@ -22,7 +22,7 @@
     },
     {
       "id": 3,
-      "image": "../public/CML_Shop.webp",
+      "image": "/CML_Shop.webp",
       "title": "CML-Shop",
       "date": "July, 2023 to September 2023",
       "detail": "The purpose of building the CML-Shop project was to learn and solve problems encountered when I started learning HTML, CSS, and JavaScript, as well as learning to use Bootstrap for responsive website applications.",
@@ -32,7 +32,7 @@
     },
     {
       "id": 4,
-      "image": "../public/Quiz_App.webp",
+      "image": "/Quiz_App.webp",
       "title": "Quiz-App",
       "date": "September, 2023 to October, 2023",
       "detail": "Quiz-App is a website application that allows users to answer the questions. In each qestion users have 15 seconds to answer. If they answer correctly, they earn 1 point.",
@@ -42,7 +42,7 @@
     },
     {
       "id": 5,
-      "image": "../public/Tinh_louk.webp",
+      "image": "/Tinh_louk.webp",
       "title": "Ting-Lok Clone",
       "date": "August, 2023 to October, 2023",
       "detail": "Ting-Lok Clone built for practicing with responsive website application using Boostrap framework of CSS.",
@@ -77,19 +77,19 @@
   "education": [
     {
       "name": "Koh Sdach High School",
-      "image": "../public/koh_sdach_high_school.webp",
+      "image": "/koh_sdach_high_school.webp",
       "date": "2022 - 2023",
       "detail": "I have completed my grade 12 at Koh Sdach high school. My achievement includes received a Grade B on the Nation Exam, 2nd place in the Mathematic Genius Student Award and selected as a Class Monitor for grade 10, 11 and 12."
     },
     {
       "name": "Royal University Of Phnom Penh",
-      "image": "../public/Rupp.webp",
+      "image": "/Rupp.webp",
       "date": "2023 - present",
       "detail": "I am currently a sophomore student in the Bachelor's degree program of Information Technology Engineering at the Royal University of Phnom Penh. I have completed 2 semesters and have a Cumulative GPA of 3.5. I have taken courses in Data Structures and Algorithms, Object-Oriented Programming, Mathematics (Algebra for Computer Science), Basic and Advanced Programming Languages, and Project Practicum."
     },
     {
       "name": "Australian Centre For Education (ACE)",
-      "image": "../public/Ace_Logo.webp",
+      "image": "/Ace_Logo.webp",
       "date": "2023 - present",
       "detail": "Currently, my General English program is GEP-6, which focuses on reading, listening, writing and speaking skills."
     }

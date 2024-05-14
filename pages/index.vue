@@ -27,7 +27,7 @@
             >
           </div>
           <NuxtImg
-            src="../public/menglay.webp"
+            src="/menglay.webp"
             class="lg:w-[300px] md:w-[300px] sm:w-[100%] mt-10 mx-auto rounded-lg"
             alt="portfolio_photo"
             quality="80"
