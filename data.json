@@ -2,7 +2,7 @@
   "projects": [
     {
       "id": 1,
-      "image": "/pos.webp",
+      "image": "/Pos.webp",
       "title": "POS System",
       "date": "January, 2024 to present",
       "detail": "The POS System was developed as a full-stack application to provide solutions for small businesses. It enables users to manage order processing, stock products, create invoices, record sales, print receipts, and ensure login security.",
