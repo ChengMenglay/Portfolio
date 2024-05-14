@@ -23,7 +23,7 @@
               href="https://drive.google.com/file/d/1cse3X9ZbBWw-JFhB7mbkrnTNMXPulrQV/view?usp=drive_link"
               target="_blank"
               class="px-3 py-2 rounded-md border border-blue-600 text-blue-400 hover:bg-blue-600 hover:text-blue-300 duration-300"
-              >View my Resume</NuxtLink
+              >View Resume</NuxtLink
             >
           </div>
           <NuxtImg
