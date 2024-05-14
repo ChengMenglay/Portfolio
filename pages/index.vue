@@ -20,7 +20,7 @@
               hobbies are coding and problem solving with relished.
             </p>
             <NuxtLink
-              href="https://drive.google.com/file/d/1cse3X9ZbBWw-JFhB7mbkrnTNMXPulrQV/view?usp=drive_link"
+              href="https://drive.google.com/file/d/1kUSCacWRHl0FD5Ny14nhmVU3o3SA38cn/view?usp=drive_link"
               target="_blank"
               class="px-3 py-2 rounded-md border border-blue-600 text-blue-400 hover:bg-blue-600 hover:text-blue-300 duration-300"
               >View Resume</NuxtLink
