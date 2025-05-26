@@ -1,97 +1,221 @@
 {
   "projects": [
     {
-      "id": 1,
-      "image": "/Pos.webp",
+      "id": 887,
+      "images": [
+        "/wear1.png",
+        "/wear2.png",
+        "/wear3.png",
+        "/wear4.png",
+        "/wear5.png",
+        "/wear6.png",
+        "/wear7.png",
+        "/wear8.png",
+        "/wear9.png",
+        "/wear10.png",
+        "/wear11.png",
+        "/wear12.png"
+      ],
+      "title": "E-Commerce Website (Shoes store)",
+      "date": "October, 2024 to May, 2025",
+      "detail": "This E-Commerce website was developed as a Capstone project, and I worked on it independently. Its main purpose is to provide users with a modern UI for a smooth shopping and payment experience. The platform also enables sellers to efficiently manage inventory and sales through a dedicated dashboard with real-time Telegram order alerts.",
+      "features": [
+        "Build an admin dashboard secured via role-based access to manage client web page such as CRUD operations for billboard, product, delivery, category, order and customer.",
+        "Real-time inventory & sales analytics ensured stock accuracy to the second, reducing overselling risks.",
+        "Telegram bot alerts each new order so staff can pack items minutes after checkout.",
+        "Implemented Cloudinary multi-image uploads with signed URLs for secure product/billboard management.",
+        "Build an Favorite feature to save favorite products for quick access.",
+        "Delivered a seamless UX with dynamic order tracking, cart persistence, and a responsive UI built with Tailwind CSS + shadcn/ui"
+      ],
+      "languages": [
+        "NextJs",
+        "Typescript",
+        "Prisma",
+        "PostgreSQL",
+        "Cloudinary",
+        "Shadcn Component",
+        "Tailwind",
+        "Auth.js(OAuth)",
+        "Cloudinary"
+      ],
+      "demo": "https://wear-plus-next-js-prisma-pogre-sql-e-commerce.vercel.app/",
+      "source": "https://github.com/ChengMenglay/WearPlus-NextJs-Prisma-PogreSQL-E-commerce-"
+    },
+    {
+      "id": 1213,
+      "images": [
+        "/book1.png",
+        "/book2.png",
+        "/book3.png",
+        "/book4.png",
+        "/book5.png",
+        "/book6.png",
+        "/book7.png",
+        "/book9.png",
+        "/book10.png",
+        "/book11.png"
+      ],
+      "title": "Book Ticket Website",
+      "date": "October, 2024 to March, 2025",
+      "detail": "This ticket booking platform was developed independently as a Capstone project. It streamlines the process of booking bus tickets online by providing real-time seat availability, secure authentication, and integrated payment processing.",
+      "features": [
+        "Built an admin dashboard with CRUD operations for routes, schedules, and tickets, secured via role-based access (Auth.js)",
+        "Implemented real-time seat availability and booking management.",
+        "Integrated secure payment processing with Stripe (testing model) for transactions and stored image on Cloudinary.",
+        "Responsive UI built with Tailwind CSS + shadcn/ui",
+        "Fully responsive design for all devices"
+      ],
+      "languages": [
+        "NextJs",
+        "Typescript",
+        "Prisma",
+        "PostgreSQL",
+        "Stripe",
+        "Cloudinary",
+        "Shadcn Component",
+        "Tailwind",
+        "Auth.js(OAuth)",
+        "Cloudinary"
+      ],
+      "demo": "https://book-us-next-js-prisma-postgre-sql.vercel.app/",
+      "source": "https://github.com/ChengMenglay/BookUs-NextJs-Prisma-PostgreSQL"
+    },
+    {
+      "id": 12,
+      "images": [
+        "/konekt2.png",
+        "/konekt3.png",
+        "/konekt5.png",
+        "/konekt4.png",
+        "/konekt6.png",
+        "/konekt9.png",
+        "/konekt7.png",
+        "/konekt8.png"
+      ],
+      "title": "Social Media App",
+      "date": "July, 2024 to August, 2024",
+      "detail": "The Social Media App was developed during my internship, and I worked on it independently. The main purpose of this project is to provide users with a platform to connect, share, and interact with friends and family. The app offers features such as user profiles, messaging, and a feed to keep users updated on their friends' activities.",
+      "features": [
+        "Create, edit and delete posts",
+        "View other users's posts and comments",
+        "Allow user to like and comment on other users' posts",
+        "User authentication and profile management",
+        "Responsive design for all devices"
+      ],
+      "languages": ["Expo", "React native", "Firebase", "Tailwind"],
+      "demo": "https://drive.google.com/file/d/1tdpCHds_eoHB6PA_vAUwlqQgqyKqguct/view?usp=sharing",
+      "source": "https://github.com/ChengMenglay/KonektAgri"
+    },
+    {
+      "id": 32,
+      "images": [
+        "/fitness1.png",
+        "/fitness2.png",
+        "/fitness3.png",
+        "/fitness4.png"
+      ],
+      "title": "Fitness App",
+      "date": "June, 2024 to July, 2024",
+      "detail": "The Fitness App was developed during my internship, and I worked on it independently. The main goal of this project is to guide users on how to work out correctly by providing proper exercise instructions and demonstrations..",
+      "features": [
+        "Free to access",
+        "Use the fitness exercise api from RapidAPI to show the exercises on the screen.",
+        "Ui responsiv base on mobile and teblet.",
+        "View detail of each exercise."
+      ],
+      "languages": ["Expo", "React native", "Tailwind"],
+      "demo": "",
+      "source": "https://github.com/ChengMenglay/Fitness-App"
+    },
+    {
+      "id": 342,
+      "images": ["/Pos.webp"],
       "title": "POS System",
-      "date": "January, 2024 to present",
+      "date": "January, 2024 to September 2024",
       "detail": "The POS System was developed as a full-stack application to provide solutions for small businesses. It enables users to manage order processing, stock products, create invoices, record sales, print receipts, and ensure login security.",
+      "features": [
+        "User authentication and role-based access",
+        "Inventory management with real-time updates",
+        "Sales tracking and reporting",
+        "Invoice generation and printing",
+        "Customer management system"
+      ],
       "languages": ["MySQL", "NodeJs", "ExpressJs", "ReactJs", "Tailwind"],
       "demo": "https://drive.google.com/file/d/1j7ePK9oVK4YqnhDlvv9eYSsWn-LIu1T3/view?usp=drive_link",
-      "source": "https://github.com/ChengMenglay/Pos-System"
+      "source": "https://github.com/ChengMenglay/Pos-System-Frontend"
     },
     {
       "id": 2,
-      "image": "/thred.webp",
+      "images": ["/thred.webp"],
       "title": "Thread clone",
-      "date": "November, 2023 to present",
+      "date": "November, 2023 to January 2024",
       "detail": "Thread Clone was built for practicing both front-end with reactJs and back-end with ExpressJs and MySQL. The functionality of this project features like includes Login and Sign-Up security, implementation on creating and editing posts, and also checking posted history.",
+      "features": [
+        "User authentication system",
+        "Create, edit and delete posts",
+        "Like and comment functionality",
+        "User profile management",
+        "Responsive design for all devices"
+      ],
       "languages": ["MySQL", "NodeJs", "ExpressJs", "ReactJs", "Tailwind"],
       "demo": "https://drive.google.com/file/d/1UqKiM8XaeZ7HLRAjWaS10pdv2tBY7mDM/view?usp=drive_link",
       "source": "https://github.com/ChengMenglay/Thread-Clone"
-    },
-    {
-      "id": 3,
-      "image": "/CML_Shop.webp",
-      "title": "CML-Shop",
-      "date": "July, 2023 to September 2023",
-      "detail": "The purpose of building the CML-Shop project was to learn and solve problems encountered when I started learning HTML, CSS, and JavaScript, as well as learning to use Bootstrap for responsive website applications.",
-      "languages": ["Javascript", "HTML", "CSS", "Boostrap"],
-      "demo": "https://chengmenglay.github.io/CMLSHOP/",
-      "source": "https://github.com/ChengMenglay/CMLSHOP"
-    },
-    {
-      "id": 4,
-      "image": "/Quiz_App.webp",
-      "title": "Quiz-App",
-      "date": "September, 2023 to October, 2023",
-      "detail": "Quiz-App is a website application that allows users to answer the questions. In each qestion users have 15 seconds to answer. If they answer correctly, they earn 1 point.",
-      "languages": ["Javascript", "HTML", "CSS"],
-      "demo": "https://chengmenglay.github.io/QuizApp/",
-      "source": "https://github.com/ChengMenglay/QuizApp"
-    },
-    {
-      "id": 5,
-      "image": "/Tinh_louk.webp",
-      "title": "Ting-Lok Clone",
-      "date": "August, 2023 to October, 2023",
-      "detail": "Ting-Lok Clone built for practicing with responsive website application using Boostrap framework of CSS.",
-      "languages": ["HTML", "CSS", "Boostrap"],
-      "demo": "https://chengmenglay.github.io/Tinglok/",
-      "source": "https://github.com/ChengMenglay/Tinglok"
     }
   ],
   "skill": {
     "fronted": [
-      { "icon": "devicon:javascript", "name": "Javascript" },
-      { "icon": "logos:react", "name": "ReactJs" },
-      { "icon": "skill-icons:tailwindcss-dark", "name": "Tailwind" },
-      { "icon": "logos:nuxt-icon", "name": "NuxtJs" },
-      { "icon": "logos:vue", "name": "Vue" },
-      { "icon": "devicon:html5", "name": "HTML" },
-      { "icon": "skill-icons:css", "name": "CSS" }
+      { "icon": "devicon:nextjs", "name": "NextJs", "proficiency": 85 },
+      { "icon": "devicon:typescript", "name": "Typescript", "proficiency": 70 },
+      { "icon": "logos:react", "name": "ReactJs", "proficiency": 85 },
+      { "icon": "devicon:javascript", "name": "Javascript", "proficiency": 80 },
+      {
+        "icon": "skill-icons:tailwindcss-dark",
+        "name": "Tailwind",
+        "proficiency": 90
+      }
     ],
     "backend": [
-      { "icon": "logos:nodejs-icon", "name": "NodeJs" },
-      { "icon": "skill-icons:expressjs-dark", "name": "ExpressJs" },
-      { "icon": "logos:mysql", "name": "MySQL" }
+      {
+        "icon": "skill-icons:expressjs-dark",
+        "name": "ExpressJs",
+        "proficiency": 70
+      },
+      { "icon": "logos:laravel", "name": "Laravel", "proficiency": 60 },
+      { "icon": "logos:nodejs-icon", "name": "NodeJs", "proficiency": 75 },
+      { "icon": "logos:prisma", "name": "Prisma", "proficiency": 85 },
+      { "icon": "logos:postgresql", "name": "PostgreSQL", "proficiency": 70 },
+      { "icon": "logos:mysql", "name": "MySQL", "proficiency": 70 }
     ],
     "tool": [
-      { "icon": "mdi:git", "name": "Git" },
-      { "icon": "uiw:github", "name": "GitHub" },
-      { "icon": "devicon:postman", "name": "Postman" },
-      { "icon": "logos:visual-studio-code", "name": "VsCode" },
-      { "icon": "devicon:figma", "name": "Figma" }
+      { "icon": "mdi:git", "name": "Git", "proficiency": 85 },
+      { "icon": "uiw:github", "name": "GitHub", "proficiency": 90 },
+      { "icon": "devicon:postman", "name": "Postman", "proficiency": 80 },
+      {
+        "icon": "logos:visual-studio-code",
+        "name": "VsCode",
+        "proficiency": 95
+      },
+      { "icon": "devicon:figma", "name": "Figma", "proficiency": 60 }
     ]
   },
   "education": [
     {
-      "name": "Koh Sdach High School",
-      "image": "/koh_sdach_high_school.webp",
-      "date": "2022 - 2023",
-      "detail": "I have completed my grade 12 at Koh Sdach high school. My achievement includes received a Grade B on the Nation Exam, 2nd place in the Mathematic Genius Student Award and selected as a Class Monitor for grade 10, 11 and 12."
-    },
-    {
-      "name": "Royal University Of Phnom Penh",
+      "name": "Royal University of Phnom Penh",
       "image": "/Rupp.webp",
-      "date": "2023 - present",
-      "detail": "I am currently a sophomore student in the Bachelor's degree program of Information Technology Engineering at the Royal University of Phnom Penh. I have completed 2 semesters and have a Cumulative GPA of 3.5. I have taken courses in Data Structures and Algorithms, Object-Oriented Programming, Mathematics (Algebra for Computer Science), Basic and Advanced Programming Languages, and Project Practicum."
+      "date": "2023 - Present",
+      "detail": "Currently pursuing a Bachelor's degree in Information Technology Engineering at the Royal University of Phnom Penh. As a senior student who has completed six semesters, I have built a strong foundation in core subjects such as Data Structures and Algorithms, Object-Oriented Programming, Discrete Mathematics, Basic and Advanced Programming Languages, and Project Practicum, among others."
     },
     {
       "name": "Australian Centre For Education (ACE)",
       "image": "/Ace_Logo.webp",
       "date": "2023 - present",
-      "detail": "Currently, my General English program is GEP-6, which focuses on reading, listening, writing and speaking skills."
+      "detail": "Currently, my General English program is GEP-8, which focuses on reading, listening, writing and speaking skills."
+    },
+    {
+      "name": "Koh Sdach High School",
+      "image": "/koh_sdach_high_school.webp",
+      "date": "2022 - 2023",
+      "detail": "I have completed my grade 12 at Koh Sdach high school. My achievement includes received a Grade B on the Nation Exam, 2nd place in the Mathematic Genius Student Award and selected as a Class Monitor for grade 10, 11 and 12."
     }
   ]
 }
